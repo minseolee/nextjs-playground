@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.blue {
+  color: blue;
+}
+
+.bold {
+  font-weight: bold;
+}
